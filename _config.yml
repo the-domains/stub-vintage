@@ -1,8 +1,7 @@
 name: Stub Vintage
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.88862
-title: Stub Vintage
+layout_spectrum: 0.6759617005009204
+typography_spectrum: 0.48244966473430395
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#efffff'
-    - '#92c6dc'
-    - '#71734b'
-    - '#d2c583'
-    - '#9d9974'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.25
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5274878675118089
+  lightness: 0.6165836518630385
+  saturation: 0.03110889974050224
+  rhythmicContrast: 0.8559795764740556
 purpose: []
