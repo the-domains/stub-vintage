@@ -1,6 +1,6 @@
 name: Stub Vintage
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.88862
 title: Stub Vintage
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 1
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
